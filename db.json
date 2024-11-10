@@ -1,0 +1,176 @@
+{
+  "cart": [
+    {
+      "myid": "1",
+      "id": "1",
+      "name": "Крендель с сахаром",
+      "description": "50г",
+      "price": "150",
+      "image": "images/img1.jpg"
+    },
+    {
+      "myid": "2",
+      "id": "2",
+      "name": "Круассан французский",
+      "description": "80г",
+      "price": "180",
+      "image": "images/img2.jpeg"
+    },
+    {
+      "myid": "3",
+      "id": "3",
+      "name": "Круассан с шоколадом и фундуком",
+      "description": "100г",
+      "price": "203",
+      "image": "images/img3.jpg"
+    },
+    {
+      "myid": "4",
+      "id": "4",
+      "name": "Маффин с голубикой",
+      "description": "40г",
+      "price": "120",
+      "image": "images/img4.jpg"
+    },
+    {
+      "myid": "5",
+      "id": "5",
+      "name": "Маффин шоколадный",
+      "description": "45г",
+      "price": "125",
+      "image": "images/img5.jpg"
+    },
+    {
+      "myid": "6",
+      "id": "6",
+      "name": "Пирог с яблоками и брусникой",
+      "description": "100г",
+      "price": "260",
+      "image": "images/img6.jpg"
+    },
+    {
+      "myid": "7",
+      "id": "7",
+      "name": "Цветаевский яблочный пирог",
+      "description": "150г",
+      "price": "300",
+      "image": "images/img7.jpg"
+    },
+    {
+      "myid": "8",
+      "id": "8",
+      "name": "Наполеон",
+      "description": "150г",
+      "price": "200",
+      "image": "images/img8.png"
+    },
+    {
+      "myid": "9",
+      "id": "9",
+      "name": "Орешки со сгущенкой",
+      "description": "100г",
+      "price": "190",
+      "image": "images/img9.jpg"
+    },
+    {
+      "myid": "10",
+      "id": "10",
+      "name": "Радужный торт",
+      "description": "130г",
+      "price": "190",
+      "image": "images/img10.jpg"
+    },
+    {
+      "myid": "11",
+      "id": "11",
+      "name": "Медовик",
+      "description": "120г",
+      "price": "230",
+      "image": "images/img11.jpg"
+    },
+    {
+      "myid": "12",
+      "id": "12",
+      "name": "Прага",
+      "description": "150г",
+      "price": "300",
+      "image": "images/img12.jpg"
+    },
+    {
+      "myid": "13",
+      "id": "13",
+      "name": "Венские вафли",
+      "description": "70г",
+      "price": "130",
+      "image": "images/img13.jpg"
+    },
+    {
+      "myid": "14",
+      "id": "14",
+      "name": "Булочка с маком",
+      "description": "90г",
+      "price": "160",
+      "image": "images/img14.jpg"
+    },
+    {
+      "myid": "15",
+      "id": "15",
+      "name": "Булочка с вишней",
+      "description": "90г",
+      "price": "148",
+      "image": "images/img15.jpg"
+    },
+    {
+      "myid": "16",
+      "id": "16",
+      "name": "Тарталетки с малиной",
+      "description": "50г",
+      "price": "120",
+      "image": "images/img16.jpg"
+    }
+  ],
+  "overlay": [
+    {
+      "id": "3",
+      "myid": "3",
+      "name": "Круассан с шоколадом и фундуком",
+      "description": "100г",
+      "price": "203",
+      "image": "images/img3.jpg"
+    },
+    {
+      "id": "2",
+      "myid": "2",
+      "name": "Круассан французский",
+      "description": "80г",
+      "price": "180",
+      "image": "images/img2.jpeg"
+    },
+    {
+      "id": "1",
+      "myid": "1",
+      "name": "Крендель с сахаром",
+      "description": "50г",
+      "price": "150",
+      "image": "images/img1.jpg"
+    }
+  ],
+  "liked": [
+    {
+      "id": "1",
+      "myid": "1",
+      "name": "Крендель с сахаром",
+      "description": "50г",
+      "price": "150",
+      "image": "images/img1.jpg"
+    },
+    {
+      "id": "2",
+      "myid": "2",
+      "name": "Круассан французский",
+      "description": "80г",
+      "price": "180",
+      "image": "images/img2.jpeg"
+    }
+  ]
+}
