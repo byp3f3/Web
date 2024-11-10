@@ -42,6 +42,7 @@ const Home = (props) => {
     }
 
     return (
+        <head><meta name="google-site-verification" content="0bZNBy4qBYsfTfffGLT6ZPzjP38uYppkZyk_DX5N73E" /></head>
         <div>
         <div className='cont main'>
             <div className='about'>
